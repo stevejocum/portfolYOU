@@ -6,14 +6,14 @@ description         : >-                               # >- means to ignore newl
                       that create real outcomes.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+baseurl             : "portfolYOU/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : stevejocum/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
 ### Author Info ###
 author:
   name              : Steve Jocum
-  image             : https://i.imgur.com/lNE3uuIm.jpg?1
+  image             : https://i.imgur.com/lNE3uuI.jpg?1
 #  behance           : your_username
 # dribbble          : your_username
   email             : stevejocum@gmail.com
