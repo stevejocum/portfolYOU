@@ -1,7 +1,15 @@
-- name: Adobe Photoshop
-  percentage: 95
+- name: UX Research
+  percentage: 75
   color: info
 
-- name: Adobe Illustrator
-  percentage: 90
+- name: Communication
+  percentage: 95
+  color: success
+
+- name: Prioritization
+  percentage: 75
+  color: success
+
+- name: Documentation and Specs
+  percentage: 85
   color: success

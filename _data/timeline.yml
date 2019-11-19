@@ -1,17 +1,40 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
+- title: Product Manager, Simply Wall St
   from: 2018
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: As the company's first Product Manager, I'm responsible for overseeing our product initiatives,
+               ensuring we work on the most important problems, and galvinizing our cross functional team to deliver
+               stunning user experiences which solve customer problems and deliver business results.
+
+- title: User Researcher, Simply Wall St
+  from: 2018
+  to: 2018
+  description: At one of the fastest growing consumer investing apps, I led our user research operations
+               where I scoped and facilitated a 4 month project to improve activation on the platform, led overall
+               30 customer interviews and usability tests, and was the researcher in charge of a new new registration
+               and onboarding flow, an innovative new price chart and a raw data feature to improve the transparency
+               of our analysis with our users
+
+
+- title: Co-founder & VP, StartUp Link
+  from: 2016
+  to: 2018
+  description: Started the first student society dedicated to connecting students to opportunities
+               in startups after noticing the lack of resources for this borgeoning sector. Helped grow
+               our community from 0 to 1,000 members, put on events attended by 150+ people per event twitch
+               CEOs from Australia's fastest growing startups and helped dozens of students secure jobs in startups.
+
+- title: Student, University of North Carolina, Chapel Hill
+  from: 2017
+  to: 2018
+  description: Studied abroad at one of the top public universities in America. Here I took classes
+               in Entrepreneurship, Global issues and Terrorism. It was an amazing educational
+               and overall experience where I was able to go out of my comfort zone and expand my mind.
+               Maintained an A+ average for all my classes.
+
+- title: Student, University of New South Wales
+  from: 2014
+  to: 2018
+  description: Studies a Bachelors of Commerce at the University of New South Wales. My disciplines
+               were Finance, Information Technology and Management. Dabbled in a few computer science
+               classes, started a society and formed strong connections with some incredible people.
+               Graduated with a Distinction average for all my classes.

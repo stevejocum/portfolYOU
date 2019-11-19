@@ -7,8 +7,8 @@ weight: 3
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}**,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Hi I am **Steve**,<br>
+I am an empathetic, entrepreneurial Product Manager. My love of psychology makes me incredibly passionate about listening to users empathetically and understanding their problems deeply. My love of software and design helps me ensure my team's products create beautiful user experiences. And my love for business and strategy makes sure that my team delivers real business outcomes, not just output.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}

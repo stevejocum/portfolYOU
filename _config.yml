@@ -1,12 +1,12 @@
 ### Site Settings ###
-title               : Steve.Jocum
+title               : Steve Jocum
 description         : >-                               # >- means to ignore newlines until "url:"
                       Product Manager, User Researcher
-                      passionate about solving problems
-                      that create real outcomes.
+                      passionate about understanding users
+                      and championing their voice.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
-baseurl             : "portfolYOU/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
+baseurl             : ""                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
 repository          : stevejocum/portfolYOU    # repository metadata on GitHub Pages [know more at https://help.github.com/en/articles/repository-metadata-on-github-pages]
 #remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you are using it as a remote theme
 
@@ -35,11 +35,11 @@ author:
 
 ### Pagination ###
 paginate: 6
-paginate_path: "/articles/page-:num/"
+paginate_path: "/essays/page-:num/"
 
 
 ### Posts Permalink ###
-permalink: articles/:title
+permalink: essays/:title
 
 
 ### Collections ###
