@@ -9,7 +9,7 @@ weight: 3
 
 Hi I'm **Steve**,
 
-I am an empathetic, entrepreneurial Product Manager. My love of psychology makes me incredibly passionate about listening to users empathetically and understanding their problems deeply. My love of software and design helps me ensure my team's products create beautiful user experiences. And my love for business and strategy makes sure that my team delivers real business outcomes, not just output.
+I am an empathetic, entrepreneurial Product Manager. My love of psychology makes me incredibly passionate about listening to users empathetically and understanding their problems deeply. My love of software and design helps me ensure my team's products create beautiful user experiences. And my love for business and strategy makes sure that my team delivers real business outcomes, not just shipped features.
 
 
 
