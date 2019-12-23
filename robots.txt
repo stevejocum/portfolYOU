@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /projects
+Disallow: _projects
+Disallow: /essays
+Disallow: _posts

@@ -1,0 +1,27 @@
+- name: Empathy
+  percentage: 95
+  color: success
+
+- name: Psychology
+  percentage: 80
+  color: success
+
+- name: Listening
+  percentage: 95
+  color: success
+
+- name: Writing
+  percentage: 90
+  color: success
+
+- name: Presenting
+  percentage: 85
+  color: success
+
+- name: Communication
+  percentage: 90
+  color: success
+
+- name: Attention to detail
+  percentage: 85
+  color: success

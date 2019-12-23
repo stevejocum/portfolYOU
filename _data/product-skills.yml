@@ -1,0 +1,27 @@
+- name: Prioritization
+  percentage: 75
+  color: primary
+
+- name: Product Discovery
+  percentage: 80
+  color: primary
+
+- name: Documentation and Specs
+  percentage: 85
+  color: primary
+
+- name: Stakeholder Management
+  percentage: 90
+  color: primary
+
+- name: Working with Engineers
+  percentage: 80
+  color: primary
+
+- name: Agile Development
+  percentage: 80
+  color: primary
+
+- name: Copywriting
+  percentage: 85
+  color: primary

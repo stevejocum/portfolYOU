@@ -1,0 +1,15 @@
+- name: HTML5, CSS, JS
+  percentage: 55
+  color: secondary
+
+- name: Analytics
+  percentage: 75
+  color: secondary
+
+- name: SQL
+  percentage: 60
+  color: secondary
+
+- name: Excel
+  percentage: 70
+  color: secondary
