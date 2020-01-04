@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 2
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q3" text="👉 Next Question" %}
 
 **Question 2:** *Say we tried product/growth tactic X and failed to generate the returns we’re looking for, how do you diagnose the issue?*
@@ -202,6 +202,6 @@ If our latest changes hadn't moved the needle, we would have had to regroup and 
 
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q3" text="👉 Next Question" %}
 </p>

@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 5
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q6" text="👉 Next Question" %}
 
 **Question 5:** *Let's say the CEO asks you if searches for tasks are up on the weekends year over year? You check the data and they are. What else do you look at before you communicate your findings?*
@@ -75,7 +75,7 @@ With 52 weekends in a year, I'd want to know if task searches are evenly distrib
 
 ## User type
 
-Since guest users (not logged in) are able to search for tasks on the platform, I'd be curious to know the split between weekend task searches by logged in users and guest users, especially considering the task search experience is significantly better as a guest user compared to a logged in one (I go into more detail on this in<a href="/essays/Airtasker-Challenge-Q4#initiative-3-improve-acceptance-rates-for-new-taskers">my response about growing active users</a>).
+Since guest users (not logged in) are able to search for tasks on the platform, I'd be curious to know the split between weekend task searches by logged in users and guest users, especially considering the task search experience is significantly better as a guest user compared to a logged in one (I go into more detail on this in<a href="/essays/Airtasker-Challenge-Q4#ensure-a-healthy-offer-to-post-ratio-4">my response about growing active users</a>).
 
 I'd also be interested in seeing if the task searches are from Taksers or Posters. My hypothesis is majority would be Taskers looking to make offers, but there may also be searches from Posters. They may wish to to know what similar task posts look like, have people done this type of task before and how they should price their task based on previous similar tasks.
 
@@ -84,6 +84,6 @@ I'd also be interested in seeing if the task searches are from Taksers or Poster
 Even though Tim wanted to know about weekends, I’d look at the same metrics for weekday task searches to understand if the data looks any different there. This could be a good opportunity to understand our users preferred timing of engaging with us. For example, if weekend task searches are higher than weekday task searches, perhaps our users find they have more time on the weekend to browse and search for tasks. In my original section where I mentioned I'd ask Tim what he's trying to learn by seeing if weekend task searches are up YOY, perhaps he wanted to know what is the most optimal time to post tasks. In that case, understanding the difference between weekend and weekday task search volumes, types of posts searched and user type would be extremely helpful to Tim.
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q6" text="👉 Next Question" %}
 </p>

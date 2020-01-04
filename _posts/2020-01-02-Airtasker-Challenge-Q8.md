@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 8
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q9" text="👉 Next Question" %}
 
 **Question 8:** *Your team has a long backlog of features to build and bugs to fix when a colleague suggests a new strategy that has the potential to 10x your product's growth. You look at it and think it is well thought-through. What would you do?*
@@ -97,6 +97,6 @@ I'd also look to see{% include elements/highlight.html text="which features in t
 
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q9" text="👉 Next Question" %}
 </p>

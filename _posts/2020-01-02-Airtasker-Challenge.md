@@ -8,7 +8,7 @@ description: My submission for the amazing Product Manager role at Airtasker
 
 ## Intro and Thanks
 
-Firstly, thank you for the opportunity to complete this challenge and for reading through my work. I loved every minute of the 2 and a half weeks I spent on it (roughly 30 hours of actual work).
+Firstly, thank you for the opportunity to complete this challenge and for reading through my work. I loved every minute of the 2 and a half weeks I spent on it (roughly 40 hours of actual work).
 
 I felt the questions deserved a lot of time to sit with and write a response which does justice to the time and energy spent carefully crafting them. I also wanted to show that the opportunity of being a Product Manager at Airtasker, a company I have held in such high regard since I was a teenager, is not a prospect I take lightly. I do not wish to do a quick job to just get the challenge submitted. I wish to demonstrate my abilities and deep desire to join you all on your mission to empower people to realize the full value of their skills.  
 
@@ -16,7 +16,7 @@ It was really important to develop as deep an understanding of the product and c
 
 ## My Experience as a Tasker and Poster
 
-Although I did place offers on jobs, I was not accepted for any (more on this <a href="/essays/Airtasker-Challenge-Q4#initiative-3-improve-acceptance-rates-for-new-taskers" target="_blank">here</a>). My Poster experience on the other hand was a resounding success 🎉. Besides wanting to put myself in the shoes of a Poster as empathetically as possible, I also wanted to speak to an Airtasker member about their experience. So, that's what I did for <a href="https://www.airtasker.com/my-tasks/10-minute-phone-call-17994016/" target="_blank">my task</a>:
+Although I did place offers on jobs, I was not accepted for any (more on this <a href="/essays/Airtasker-Challenge-Q4#improve-acceptance-rates-for-new-taskers-3" target="_blank">here</a>). My Poster experience on the other hand was a resounding success 🎉. Besides wanting to put myself in the shoes of a Poster as empathetically as possible, I also wanted to speak to an Airtasker member about their experience. So, that's what I did for <a href="https://www.airtasker.com/my-tasks/10-minute-phone-call-17994016/" target="_blank">my task</a>:
 
 
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2500">
@@ -106,7 +106,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q4" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/bRrLS3H/multiple-users-silhouette.png">
   <div class="card-body">
     <h5 class="card-title">Growing Active Users</h5>
     <p class="card-text">The 5 things I'd do to grow our active users</p>
@@ -116,17 +116,17 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q5" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/dD9jXN7/calendar.png">
   <div class="card-body">
     <h5 class="card-title">Weekend Task Searches</h5>
-    <p class="card-text">Communicating my findings to Tim</p>
+    <p class="card-text">Communicating my findings</p>
   </div>
 </a>
 </div>
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q6" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/9hwvJGz/newsletter.png">
   <div class="card-body">
     <h5 class="card-title">Email Re-engagement</h5>
     <p class="card-text">My conclusions on tasks coming from emails</p>
@@ -140,7 +140,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q7" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/5xxF6tz/banner.png">
   <div class="card-body">
     <h5 class="card-title">Tasker Ads</h5>
     <p class="card-text">Determining the impact of ads in the marketplace</p>
@@ -150,7 +150,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q8" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/1bxFhsS/growth.png">
   <div class="card-body">
     <h5 class="card-title">10x Growth Strategy</h5>
     <p class="card-text">What I'd do with a bold suggestion</p>
@@ -160,7 +160,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q9" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/SRdFgNS/partners-claping-hands.png">
   <div class="card-body">
     <h5 class="card-title">Instant Matching</h5>
     <p class="card-text">How I'd approach the complexities</p>
@@ -174,7 +174,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q10" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/yXsMQM3/menu-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/4YTLXY2/subscription.png">
   <div class="card-body">
     <h5 class="card-title">Subscription Model</h5>
     <p class="card-text">How my colleague might solve the model's problems</p>
@@ -194,7 +194,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q14-Q15-values" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/9vgz6vj/goal-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/TvM9zcY/balance.png">
   <div class="card-body">
     <h5 class="card-title">Our Values</h5>
     <p class="card-text">What it means to me personally and as a PM</p>
@@ -208,7 +208,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q16" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/9vgz6vj/goal-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/Dr38ZkT/career.png">
   <div class="card-body">
     <h5 class="card-title">My Career</h5>
     <p class="card-text">What's important to me in my career</p>
@@ -218,7 +218,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q17" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/9vgz6vj/goal-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/zQZHNxT/opportunity.png">
   <div class="card-body">
     <h5 class="card-title">The Opportunity</h5>
     <p class="card-text">Why I want to hop on the Airtasker ride</p>
@@ -228,7 +228,7 @@ As an aside, this user raised some major issues that they feel the platform has 
 
 <div class="col-sm-4">
 <a href="Airtasker-Challenge-Q18" class="project card text-dark">
-    <img class="card-img-top" src="https://i.ibb.co/9vgz6vj/goal-1.png">
+    <img class="card-img-top" src="https://i.ibb.co/TTJ4jWv/businessman-with-doubts.png">
   <div class="card-body">
     <h5 class="card-title">Wait, who are you?</h5>
     <p class="card-text">What I'd like you to know about me</p>

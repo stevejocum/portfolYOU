@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 16
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q17" text="👉 Next Question" %}
 
 **Question 16:** *What is important to you in your career?*
@@ -43,6 +43,6 @@ In my life, I know for a fact that I want to be leading others. I have always st
 Whilst the role of a product manager is to lead a team (not manage them), my medium to long term goal is to officially lead a team of other product managers and head up a product team. For me, that has nothing to do with title and status - it’s just where I feel I can add the most value in an organization and help others fulfil their potential.
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q17" text="👉 Next Question" %}
 </p>

@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 17
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q18" text="👉 Next Question" %}
 
 **Question 17:** *What excites you about Airtasker and the opportunity?*
@@ -59,6 +59,6 @@ Besides my excitement in joining you on your mission, a secondary reason why I w
 I was incredibly excited when you said you’re in the process of building a world class product management team. I think there are some very talented product people at Airtasker, and Product Management is so important to me. The learning I will gain from being amongst the world class Airtasker Product team would be invaluable and help me unlock my potential as a PM and <strong><u>realize the full value of my skills</u></strong>. Plus, I like to be on the journey of building something amazing from the foundations - that ride really excites me.
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q18" text="👉 Next Question" %}
 </p>

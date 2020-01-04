@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 6
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q7" text="👉 Next Question" %}
 
 **Question 6:** *A colleague suggests we should send more emails to re-engage our users. You check the data and find that 20% of tasks posted onto Airtasker are attributed to email in Google Analytics and the trend is increasing. What can you conclude?*
@@ -76,6 +76,6 @@ I'd want to see what percentage of tasks posted which are attributed to email en
 I'd then want to compare this to the other channels to see how it stacks up against the rest. If it is significantly lower, then that's a problem and I'd want to dig further to understand why the tasks being posted from our email channel are not high quality. For example, we may send out an email about draft tasks the user has waiting to be posted, nudging them to complete the flow. Looking at those tasks posted from that email, we may see that the post description, categorization and pricing are poor and therefore they didn't receive any offers. Perhaps we should be doing a better job at guiding the user to post a high quality task instead of just driving them to get it posted quickly.
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q7" text="👉 Next Question" %}
 </p>

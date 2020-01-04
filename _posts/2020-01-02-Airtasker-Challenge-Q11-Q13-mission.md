@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 11 - Question 13
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q14-Q15-values" text="👉 Next Question" %}
 
 **Question 11-13:** *Our mission is to empower people to realise the full value of their skills. What is your interpretation of this? Why is this important to you? What do you think this looks like for Airtasker?*
@@ -64,6 +64,6 @@ Airtasker facilitates the connection of people wanting to get stuff done and tho
 Airtasker achieves this mission simply by being an enabler. We give people the tools and resources to unlock and enhance their skills. We enable people to get things done they don't want to do themselves, and people to complete those tasks and earn extra income. Airtasker puts the frameworks and structures in place for everyday jobs to get done that help make people's lives better and let each party do what they want most.
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q14-Q15-values" text="👉 Next Question" %}
 </p>

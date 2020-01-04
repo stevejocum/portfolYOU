@@ -5,7 +5,7 @@ style: fill
 color: primary
 description: Question 1
 ---
-{% include elements/button.html link="/essays/Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q2" text="👉 Next Question" %}
 
 **Question 1:** *Given a choice of 10 random product/growth features, how do you determine which ones to execute?*
@@ -219,6 +219,6 @@ The matrix involves plotting any feature/initiative based on how urgent it is ne
 On a final note, I think it's important to consider the definition of 'execute' mentioned in the question. For the purposes of the question, I assumed we meant 'deciding what to work on', but execution can also mean delivery. So in terms of actually delivering a solution, I like to use a{% include elements/highlight.html text="canary release" %}methodology to roll out a new feature to a subset of users and{% include elements/highlight.html text="measure whether the feature actually achieves our primary and secondary success metrics before a full roll-out." %}
 
 <p class="text-center">
-{% include elements/button.html link="/essays//Airtasker-Challenge" text="🏠 Back to Home" %}
+{% include elements/button.html link="/essays/Airtasker-Challenge#challenge-questions" text="🏠 Back to Home" %}
 {% include elements/button.html link="/essays/Airtasker-Challenge-Q2" text="👉 Next Question" %}
 </p>
