@@ -54,9 +54,10 @@ I’d also have very different usage expectations for Posters with an active tas
 ### Activity
 
 It's critical we ask ourselves what threshold of activity a user needs to have to consider that session as valid for our active user metrics. In general, I think there are 3 options we can use as our benchmark for active users returning for a session:
-1) User simply returns to the app or website (this means if a user opens the app then leaves instantly, they'd still be considered an active user)
-2) User returns to app or website and fires at least 1 analytics event (eg. Changes tabs in mobile app, clicks a button etc.)
-3) User returns to app or website and performs a meaningful interaction (e.g. searching for a job, clicking on a job post, placing an offer, clicking 'post a task' etc.
+
+- User simply returns to the app or website (this means if a user opens the app then leaves instantly, they'd still be considered an active user)
+- User returns to app or website and fires at least 1 analytics event (eg. Changes tabs in mobile app, clicks a button etc.)
+- User returns to app or website and performs a meaningful interaction (e.g. searching for a job, clicking on a job post, placing an offer, clicking 'post a task' etc.
 
 Obviously, the lower the threshold of activity required by us to attribute a user as ‘active’, the better our metrics look on paper. However it may not be indicative for a user coming back and getting value from the platform, so I generally prefer being quite “harsh” in our assessment of an active user. To some external stakeholders I think it's okay to use number of users returning to the site/app as the measure (as this is technically correct), but internally we need something more reliable to help us understand the true health of our marketplace.
 
